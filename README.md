@@ -179,13 +179,7 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
@@ -201,11 +195,6 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
  
 
