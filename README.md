@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Lakindu Ravishka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
 
 
@@ -26,7 +26,7 @@
 
 <br><br>
 
-- :school: I am a `Graduate` at [Software Engineering] at [ESOFT Metro Campus,](http://suez.edu.eg/ar/](https://esoft.lk/)).
+- :school: I am a `Graduate` at Software Engineering at [ESOFT Metro Campus,](http://suez.edu.eg/ar/](https://esoft.lk/)).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
