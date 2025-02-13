@@ -26,7 +26,7 @@
 
 <br><br>
 
-- :school: I am a `Graduate` at Software Engineering at [ESOFT Metro Campus,](http://suez.edu.eg/ar/](https://esoft.lk/)).
+- :school: I am a `Graduate` at `Software Engineer` at [ESOFT Metro Campus,](http://suez.edu.eg/ar/](https://esoft.lk/)).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
