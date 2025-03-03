@@ -31,7 +31,7 @@
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/file/d/1IvfNFlR_ye-hd5h2JeS5rvgc6y4VS-tI/view?usp=drive_link)).
--- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://lakinduravishka.kesug.com/)).
+--:boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://lakinduravishka.kesug.com/).
 <br>
 
 
