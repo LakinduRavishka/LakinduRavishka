@@ -210,6 +210,9 @@
     </a>-->
     <a href="https://github.com/LakinduRavishka/Quiet-Attick-Windows-Application">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakinduRavishka&repo=Quiet-Attick-Windows-Application&theme=tokyonight" alt="GitHub Stats" /></a>
+
+   <a href="[https://github.com/LakinduRavishka/Quiet-Attick-Windows-Application](https://github.com/LakinduRavishka/Portfolio-web-site-)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakinduRavishka&repo=Quiet-Attick-Windows-Application&theme=tokyonight" alt="GitHub Stats" /></a>
   </p>
 </div>
 </details>
