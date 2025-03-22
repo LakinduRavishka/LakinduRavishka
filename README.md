@@ -209,8 +209,9 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakinduRavishka&repo=Quiet-Attick-Windows-Application&theme=tokyonight" alt="GitHub Stats" />
     </a>-->
     <a href="https://github.com/LakinduRavishka/Quiet-Attick-Windows-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakinduRavishka&repo=Quiet-Attick-Windows-Application&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LakinduRavishka&repo=Quiet-Attick-Windows-Application&theme=tokyonight" alt="GitHub Stats" />
 </a>
+
 
 
 
